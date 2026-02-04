@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mineslot.example.com/sitemap.xml
+Sitemap: https://mineslot-gold.vercel.app/sitemap.xml
