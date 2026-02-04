@@ -7,7 +7,7 @@ export default function Home() {
     "name": "MineSlot",
     "description": "Mine Slot — онлайн-слот, вдохновлённый игрой Minecraft. Игра сохраняет узнаваемые черты оригинальной вселенной: пиксельную графику, характерные блоки и звуковые эффекты",
     "alternateName": "майн слот",
-    "url": "https://mineslot.example.com",
+    "url": "https://mineslot-gold.vercel.app",
     "author": {
       "@type": "Organization",
       "name": "Lucky Bear"
